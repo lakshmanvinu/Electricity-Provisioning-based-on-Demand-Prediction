@@ -1,2 +1,2 @@
-# Convex-Optimization
-AMS559-Smart Energy in the Information Age assignment
+# AMS559-Smart Energy in the Information Age assignment
+The primary goal of the project was to optimize a convex objective function and determine an optimal control algorithm that minimizes the cost of the objective function at every time-step. Implemented several offline and online control algorithms - Online Gradient De- scent (OGD), Receding Horizon Control (RHC) and Commitment Horizon Control (CHC). 
